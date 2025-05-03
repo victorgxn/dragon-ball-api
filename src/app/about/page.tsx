@@ -206,7 +206,7 @@ export default function AboutPage() {
 
         <div className="text-center">
           <a
-            href="https://github.com/tu-usuario/dragon-ball-app"
+            href="https://github.com/victorgxn/dragon-ball-api"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center mt-4 text-orange-600 hover:text-orange-700 transition-colors"
